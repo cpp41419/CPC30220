@@ -1,0 +1,256 @@
+{
+  "vertical": "Trades",
+  "hierarchy": "root/trades/cpc30220",
+  "qualification_title": "Certificate III in Carpentry",
+  "aqf_level": 3,
+  "nominal_hours": 1440,
+  "tam_estimate": 12500,
+  "licensing_required": true,
+  "hub": {
+    "url": "/cpc30220",
+    "title": "CPC30220 Certificate III in Carpentry",
+    "schema": "EducationalOccupationalCredential",
+    "voice": "Mixed",
+    "word_target": 850,
+    "cta": "Compare Carpentry Training Providers",
+    "primary_keywords": [
+      "cpc30220",
+      "certificate iii carpentry",
+      "carpentry apprenticeship",
+      "carpenter qualification",
+      "carpentry course"
+    ]
+  },
+  "spokes": [
+    {
+      "url": "/cpc30220-units-of-competency",
+      "title": "CPC30220 Units of Competency: Complete Breakdown",
+      "schema": "Course + ItemList",
+      "voice": "Student",
+      "word_target": 700,
+      "purpose": "Detailed explanation of all 23 core and elective units"
+    },
+    {
+      "url": "/cpc30220-career-pathways",
+      "title": "Carpenter Career Pathways After CPC30220",
+      "schema": "Article + JobPosting",
+      "voice": "Expert",
+      "word_target": 750,
+      "purpose": "Job roles: Carpenter, Leading Hand, Supervisor, Estimator. Salary: $55K-$95K"
+    },
+    {
+      "url": "/cpc30220-nsw-licensing",
+      "title": "CPC30220 NSW Licensing Requirements",
+      "schema": "HowTo + Place",
+      "voice": "Skeptic",
+      "word_target": 700,
+      "purpose": "NSW Fair Trading requirements, contractor license pathway, supervision rules"
+    },
+    {
+      "url": "/cpc30220-vic-licensing",
+      "title": "CPC30220 VIC Registration Guide",
+      "schema": "HowTo + Place",
+      "voice": "Skeptic",
+      "word_target": 700,
+      "purpose": "VBA registration, domestic builder license requirements, DB-L vs DB-U"
+    },
+    {
+      "url": "/cpc30220-qld-licensing",
+      "title": "CPC30220 QLD QBCC License Requirements",
+      "schema": "HowTo + Place",
+      "voice": "Skeptic",
+      "word_target": 700,
+      "purpose": "QBCC license categories, trade contractor requirements, licence conditions"
+    },
+    {
+      "url": "/cpc30220-wa-licensing",
+      "title": "CPC30220 WA Building Service Registration",
+      "schema": "HowTo + Place",
+      "voice": "Skeptic",
+      "word_target": 700,
+      "purpose": "Building Services Board registration, carpentry and joinery licence"
+    },
+    {
+      "url": "/cpc30220-sa-licensing",
+      "title": "CPC30220 SA Building Work Licensing",
+      "schema": "HowTo + Place",
+      "voice": "Skeptic",
+      "word_target": 650,
+      "purpose": "CBS licensing requirements, building work contractor registration"
+    },
+    {
+      "url": "/cpc30220-apprenticeship-guide",
+      "title": "CPC30220 Apprenticeship: What to Expect",
+      "schema": "HowTo",
+      "voice": "Student",
+      "word_target": 800,
+      "purpose": "Duration (3-4 years), pay rates (55-90% adult wage), on/off-the-job training split"
+    },
+    {
+      "url": "/cpc30220-apprenticeship-vs-fast-track",
+      "title": "Apprenticeship vs Fast-Track CPC30220: Which Path?",
+      "schema": "Article",
+      "voice": "Skeptic",
+      "word_target": 700,
+      "purpose": "Compare traditional apprenticeship (4 years) vs fast-track (18 months), pros/cons"
+    },
+    {
+      "url": "/cpc30220-white-card-requirement",
+      "title": "White Card: Construction Induction Prerequisite",
+      "schema": "HowTo",
+      "voice": "Expert",
+      "word_target": 550,
+      "purpose": "CPCCWHS1001 White Card requirement, how to obtain, cost ($150-$200)"
+    },
+    {
+      "url": "/cpc30220-entry-requirements",
+      "title": "CPC30220 Entry Requirements & Prerequisites",
+      "schema": "Course",
+      "voice": "Student",
+      "word_target": 600,
+      "purpose": "Age requirements (typically 16+), physical fitness, White Card, employer sponsor"
+    },
+    {
+      "url": "/cpc30220-tools-and-equipment",
+      "title": "Essential Tools for CPC30220 Apprentices",
+      "schema": "ItemList",
+      "voice": "Student",
+      "word_target": 650,
+      "purpose": "Tool list for apprentices, costs ($2K-$5K), employer vs personal responsibility"
+    },
+    {
+      "url": "/cpc30220-work-placement",
+      "title": "CPC30220 Work Placement Requirements",
+      "schema": "HowTo",
+      "voice": "Student",
+      "word_target": 600,
+      "purpose": "On-the-job training hours, finding an employer, Group Training Organisations"
+    },
+    {
+      "url": "/cpc30220-housing-boom-opportunities",
+      "title": "Housing Shortage: 90,000 Carpenter Jobs Needed",
+      "schema": "Article",
+      "voice": "Expert",
+      "word_target": 850,
+      "purpose": "Industry demand, housing construction targets, job security, regional opportunities"
+    },
+    {
+      "url": "/cpc30220-fifo-mining-opportunities",
+      "title": "FIFO Carpentry: Mining Town Opportunities",
+      "schema": "Article + Place",
+      "voice": "Expert",
+      "word_target": 750,
+      "purpose": "WA/QLD mining construction, fly-in-fly-out roles, salary premiums ($100K+)"
+    },
+    {
+      "url": "/cpc30220-cost-and-funding",
+      "title": "CPC30220 Course Fees & Apprentice Support",
+      "schema": "FAQPage",
+      "voice": "Skeptic",
+      "word_target": 650,
+      "purpose": "Typical costs (often employer-funded), government incentives, tools allowance"
+    },
+    {
+      "url": "/cpc30220-pathway-to-cert-iv",
+      "title": "CPC30220 to CPC40120 Building Pathway",
+      "schema": "EducationalOccupationalProgram",
+      "voice": "Expert",
+      "word_target": 600,
+      "purpose": "Pathway to Cert IV in Building & Construction, supervisor/foreman roles"
+    },
+    {
+      "url": "/cpc30220-rpl-pathway",
+      "title": "Recognition of Prior Learning (RPL) for CPC30220",
+      "schema": "HowTo",
+      "voice": "Expert",
+      "word_target": 650,
+      "purpose": "RPL for experienced carpenters, portfolio evidence, unlicensed to licensed pathway"
+    },
+    {
+      "url": "/cpc30220-safety-training",
+      "title": "Construction Safety Training in CPC30220",
+      "schema": "Course",
+      "voice": "Expert",
+      "word_target": 600,
+      "purpose": "WHS units, working at heights, confined spaces, PPE requirements"
+    },
+    {
+      "url": "/cpc30220-provider-comparison",
+      "title": "Compare CPC30220 Training Providers",
+      "schema": "ItemList + AggregateRating",
+      "voice": "Skeptic",
+      "word_target": 550,
+      "purpose": "RTO comparison with MDPA scores, completion rates, employer feedback"
+    },
+    {
+      "url": "/cpc30220-faq",
+      "title": "CPC30220 Frequently Asked Questions",
+      "schema": "FAQPage",
+      "voice": "Student",
+      "word_target": 950,
+      "purpose": "15+ Q&A covering entry requirements, cost, duration, tools needed, licensing"
+    },
+    {
+      "url": "/cpc30220-salary-expectations",
+      "title": "Carpenter Salaries: CPC30220 Graduate Earnings",
+      "schema": "FAQPage",
+      "voice": "Skeptic",
+      "word_target": 650,
+      "purpose": "Salary progression: Apprentice ($25K-$50K) to Qualified ($60K-$95K+)"
+    },
+    {
+      "url": "/about",
+      "title": "About CPC30220.com - Transparency Methodology",
+      "schema": "Organization + Person",
+      "voice": "Expert",
+      "word_target": 700,
+      "purpose": "MDPA scoring methodology, data sources, editorial standards"
+    },
+    {
+      "url": "/contact",
+      "title": "Contact Us",
+      "schema": "ContactPage",
+      "voice": "Mixed",
+      "word_target": 300,
+      "purpose": "Inquiry form, RTO update requests, feedback"
+    }
+  ],
+  "internal_crosslinks": [
+    "CPC40120",
+    "CPC50220",
+    "CPC20220",
+    "CPC31020"
+  ],
+  "external_authority_links": [
+    "https://training.gov.au/Training/Details/CPC30220",
+    "https://www.fairtrading.nsw.gov.au/trades-and-businesses/construction-and-trade-industries",
+    "https://www.vba.vic.gov.au/registration",
+    "https://www.qbcc.qld.gov.au/",
+    "https://www.commerce.wa.gov.au/building-and-energy",
+    "https://www.cbs.sa.gov.au/"
+  ],
+  "competitor_analysis": {
+    "top_3_serps": [
+      {
+        "domain": "seek.com.au",
+        "schema_present": false,
+        "word_count": 350,
+        "weakness": "Job listing aggregator, no qualification detail or provider comparison"
+      },
+      {
+        "domain": "tafensw.edu.au",
+        "schema_present": true,
+        "word_count": 650,
+        "weakness": "Single provider focus, no licensing state comparison, no apprenticeship vs fast-track"
+      },
+      {
+        "domain": "apprenticeshipcentral.com.au",
+        "schema_present": false,
+        "word_count": 450,
+        "weakness": "Generic content, outdated licensing info, no MDPA transparency"
+      }
+    ]
+  },
+  "data_gaps": [],
+  "confidence_score": 88
+}

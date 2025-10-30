@@ -1,0 +1,3732 @@
+[
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/",
+    "fetched_at": "2025-10-30T02:06:22.049Z",
+    "status": 200,
+    "meta_title": "Home | GOTAFE",
+    "meta_description": "GOTAFE is the largest vocational education provider in regional Victoria, with a focus on building a better community by inspiring people to succeed.",
+    "canonical": "https://www.gotafe.vic.edu.au/",
+    "h1": "You've Got This",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [],
+    "has_schema_errors": true,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.tafensw.edu.au/",
+    "fetched_at": "2025-10-30T02:06:24.142Z",
+    "status": 200,
+    "meta_title": "TAFE NSW – Trusted Training and Career Pathways",
+    "meta_description": "TAFE NSW delivers high-quality education with industry-experienced teachers and industry-recognised qualifications.",
+    "canonical": "https://www.tafensw.edu.au/",
+    "h1": "Find your gift for the land",
+    "org_name": "",
+    "emails": [],
+    "phones": [],
+    "social": {
+      "instagram": "https://www.instagram.com/tafensw/"
+    },
+    "courses": [],
+    "delivery_modes": [
+      "online",
+      "recognition of prior learning",
+      "on-campus",
+      "on campus",
+      "classroom"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "privacy",
+        "url": "https://policies.google.com/privacy"
+      },
+      {
+        "name": "terms",
+        "url": "https://policies.google.com/terms"
+      }
+    ],
+    "jsonld_types": [],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.tafensw.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en",
+    "links_out_sample": [
+      "https://www.tafensw.edu.au",
+      "https://www.tafensw.edu.au/_nuxt/index.CqonRL0F.css"
+    ]
+  },
+  {
+    "source_url": "https://tafeqld.edu.au/",
+    "fetched_at": "2025-10-30T02:06:32.559Z",
+    "status": 200,
+    "meta_title": "TAFE Queensland | Courses & Training - Online & On-Campus",
+    "meta_description": "TAFE Queensland is the state's largest training provider with practical, industry-relevant training from certificates to bachelor degrees. Find out more.",
+    "canonical": "https://tafeqld.edu.au/",
+    "h1": "You define your greatness",
+    "org_name": "TAFE Queensland",
+    "rto_code": "0275",
+    "cricos": "Provider Code",
+    "emails": [],
+    "phones": [
+      "1300 308 233",
+      "1300308233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/TAFEQueensland/",
+      "linkedin": "https://www.linkedin.com/company/tafe-queensland",
+      "twitter": "https://twitter.com/TAFEQld",
+      "youtube": "https://www.youtube.com/user/TAFEQueensland",
+      "instagram": "https://www.instagram.com/tafeqld/"
+    },
+    "courses": [],
+    "delivery_modes": [
+      "online",
+      "on-campus",
+      "recognition of prior learning",
+      "rpl",
+      "on campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "privacy-policy",
+        "url": "https://tafeqld.edu.au/legal/privacy-policy"
+      }
+    ],
+    "jsonld_types": [
+      "Organization"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://tafeqld.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en",
+    "links_out_sample": [
+      "https://tafeqld.edu.au",
+      "https://tafeqld.edu.au/",
+      "https://tafeqld.edu.au/legal/privacy-policy"
+    ]
+  },
+  {
+    "source_url": "https://www.tafesa.edu.au/",
+    "fetched_at": "2025-10-30T02:06:41.689Z",
+    "status": 200,
+    "meta_title": "TAFE SA - Vocational Education & Training in Adelaide, South Australia",
+    "meta_description": "TAFE SA is South Australia's largest vocational education and training provider.",
+    "org_name": "Default",
+    "rto_code": "41026",
+    "cricos": "CRICOS: 00092B",
+    "emails": [],
+    "phones": [
+      "1800 882 661"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/tafesa",
+      "linkedin": "https://au.linkedin.com/company/tafe-sa",
+      "youtube": "https://www.youtube.com/user/TAFESouthAustralia",
+      "instagram": "https://www.instagram.com/tafe_sa/"
+    },
+    "courses": [],
+    "delivery_modes": [
+      "online"
+    ],
+    "pricing_mentions": [],
+    "policies": [],
+    "jsonld_types": [
+      "Organisation"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [],
+    "content_lang": "en",
+    "links_out_sample": []
+  },
+  {
+    "source_url": "https://www.southmetrotafe.wa.edu.au/",
+    "fetched_at": "2025-10-30T02:06:45.166Z",
+    "status": 200,
+    "meta_title": "Home | South Metropolitan TAFE",
+    "canonical": "https://www.southmetrotafe.wa.edu.au/",
+    "h1": "South Metropolitan TAFE",
+    "org_name": ".a48ca86c-82b8-4af0-8539-b9588c2dd404, .e7a16208-0061-4e92-a49a-66e2abf6821a {\n        fill: #231f20;\n      }\n\n      .e7a16208-0061-4e92-a49a-66e2abf6821a {\n        fill-rule: evenodd;\n      }\n\n      .f56be7d9-81ae-48f5-9bb7-9a2f3653c2a9 {\n        fill: #fff;\n      }\n\n      .a53e5843-4210-4c44-8aa8-bd53999521b9 {\n        fill: #8347ad;\n      }\n\n      .e2448f12-22bc-4967-82eb-1b8e3052097e {\n        fill: #414142;\n      }\n    \n  \n  South Metro TAFE",
+    "abn": "15 965 263 323",
+    "emails": [
+      "info@smtafe.wa.edu.au",
+      "info@smtafe.wa.edu.au"
+    ],
+    "phones": [
+      "1800 001 001"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/smtafe/",
+      "linkedin": "https://www.linkedin.com/school/south-metropolitan-tafe",
+      "youtube": "https://www.youtube.com/@SouthMetropolitanTAFE",
+      "instagram": "https://www.instagram.com/smtafe/"
+    },
+    "courses": [],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "policies-important-documents-and-responsibilities",
+        "url": "https://www.southmetrotafe.wa.edu.au/current-students/policies-important-documents-and-responsibilities"
+      }
+    ],
+    "jsonld_types": [],
+    "has_schema_errors": true,
+    "sitemap_urls": [],
+    "content_lang": "en",
+    "links_out_sample": [
+      "https://www.southmetrotafe.wa.edu.au/",
+      "https://www.southmetrotafe.wa.edu.au/industryconnect",
+      "https://www.southmetrotafe.wa.edu.au/current-students/blackboard",
+      "https://www.southmetrotafe.wa.edu.au/applications",
+      "https://www.southmetrotafe.wa.edu.au/current-students/policies-important-documents-and-responsibilities",
+      "https://www.southmetrotafe.wa.edu.au/current-students/reports-and-publications"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/#nav",
+    "fetched_at": "2025-10-30T02:06:48.030Z",
+    "status": 200,
+    "meta_title": "Home | GOTAFE",
+    "meta_description": "GOTAFE is the largest vocational education provider in regional Victoria, with a focus on building a better community by inspiring people to succeed.",
+    "canonical": "https://www.gotafe.vic.edu.au/",
+    "h1": "You've Got This",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [],
+    "has_schema_errors": true,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/#content",
+    "fetched_at": "2025-10-30T02:06:50.967Z",
+    "status": 200,
+    "meta_title": "Home | GOTAFE",
+    "meta_description": "GOTAFE is the largest vocational education provider in regional Victoria, with a focus on building a better community by inspiring people to succeed.",
+    "canonical": "https://www.gotafe.vic.edu.au/",
+    "h1": "You've Got This",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [],
+    "has_schema_errors": true,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/#footer",
+    "fetched_at": "2025-10-30T02:06:58.866Z",
+    "status": 200,
+    "meta_title": "Home | GOTAFE",
+    "meta_description": "GOTAFE is the largest vocational education provider in regional Victoria, with a focus on building a better community by inspiring people to succeed.",
+    "canonical": "https://www.gotafe.vic.edu.au/",
+    "h1": "You've Got This",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [],
+    "has_schema_errors": true,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/current-students",
+    "fetched_at": "2025-10-30T02:07:01.711Z",
+    "status": 200,
+    "meta_title": "Current Students | GOTAFE",
+    "meta_description": "Your central hub to access all the online learning tools and resources you need while studying at GOTAFE.",
+    "canonical": "https://www.gotafe.vic.edu.au/current-students",
+    "h1": "Current Students",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "online",
+      "recognition of prior learning",
+      "on-campus",
+      "on campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [],
+    "has_schema_errors": true,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+    "fetched_at": "2025-10-30T02:07:09.751Z",
+    "status": 200,
+    "meta_title": "Working with us | GOTAFE",
+    "meta_description": "GOTAFE prides itself on being an employer of choice and offers a range of benefits and opportunities for our employees along with a lifestyle choice in regional Victoria.",
+    "canonical": "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+    "h1": "Love to work local?",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [
+      "recruitment@gotafe.vic.edu.au",
+      "recruitment@gotafe.vic.edu.au"
+    ],
+    "phones": [
+      "03 5833 2909",
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/about-us/contact",
+    "fetched_at": "2025-10-30T02:07:12.432Z",
+    "status": 200,
+    "meta_title": "Contact Us | GOTAFE",
+    "meta_description": "Find out more about our courses and training and apprenticeship opportunities. Get in touch to start your GOTAFE journey today.",
+    "canonical": "https://www.gotafe.vic.edu.au/about-us/contact",
+    "h1": "Contact Us",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [
+      "media@gotafe.vic.edu.au",
+      "media@gotafe.vic.edu.au"
+    ],
+    "phones": [
+      "1300 468 233",
+      "1300468233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "Feedback%20Complaints%20and%20Appeals%20Management%20Policy.pdf",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/gotafepublicweb/documents/Policy/Feedback%20Complaints%20and%20Appeals%20Management%20Policy.pdf"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/courses",
+    "fetched_at": "2025-10-30T02:07:23.245Z",
+    "status": 200,
+    "meta_title": "Courses | GOTAFE",
+    "meta_description": "Find a course that suits your goals and start your GOTAFE journey today.",
+    "canonical": "https://www.gotafe.vic.edu.au/courses",
+    "h1": "Courses",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [],
+    "has_schema_errors": true,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/study/all-courses",
+    "fetched_at": "2025-10-30T02:07:31.073Z",
+    "status": 200,
+    "meta_title": "All Courses | GOTAFE",
+    "meta_description": "Search for a course or interest area.",
+    "canonical": "https://www.gotafe.vic.edu.au/study/all-courses",
+    "h1": "154 courses found:",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus",
+      "on campus",
+      "oncampus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/study",
+    "fetched_at": "2025-10-30T02:07:34.092Z",
+    "status": 200,
+    "meta_title": "Course Study Areas | GOTAFE",
+    "meta_description": "Find your dream career with a course from GOTAFE. We have a range of courses at every level, from Short Courses through to Certificates and Diplomas.",
+    "canonical": "https://www.gotafe.vic.edu.au/study",
+    "h1": "Study Areas",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [],
+    "has_schema_errors": true,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/study/business-it",
+    "fetched_at": "2025-10-30T02:07:41.826Z",
+    "status": 200,
+    "meta_title": "Business & IT | GOTAFE",
+    "meta_description": "Learn the skills you need for a successful career in Business & IT at GOTAFE. Learn more about our courses today.",
+    "canonical": "https://www.gotafe.vic.edu.au/study/business-it",
+    "h1": "Business & IT",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/study/creative",
+    "fetched_at": "2025-10-30T02:07:44.983Z",
+    "status": 200,
+    "meta_title": "Creative | GOTAFE",
+    "meta_description": "Turn your raw talent into a skill set for a creative career.",
+    "canonical": "https://www.gotafe.vic.edu.au/study/creative",
+    "h1": "Creative",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/study/education",
+    "fetched_at": "2025-10-30T02:07:52.634Z",
+    "status": 200,
+    "meta_title": "Education & Teaching | GOTAFE",
+    "meta_description": "Enjoy a rewarding career in Education, helping light the way for others.",
+    "canonical": "https://www.gotafe.vic.edu.au/study/education",
+    "h1": "Education",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/study/hair-beauty",
+    "fetched_at": "2025-10-30T02:07:55.828Z",
+    "status": 200,
+    "meta_title": "Hair & Beauty | GOTAFE",
+    "meta_description": "Help people look and feel their best with a rewarding career in Hair & Beauty.",
+    "canonical": "https://www.gotafe.vic.edu.au/study/hair-beauty",
+    "h1": "Hair & Beauty",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/study/health-community",
+    "fetched_at": "2025-10-30T02:08:03.448Z",
+    "status": 200,
+    "meta_title": "Health & Community | GOTAFE",
+    "meta_description": "Help people lead better lives with a career in the Health & Community sector.",
+    "canonical": "https://www.gotafe.vic.edu.au/study/health-community",
+    "h1": "Health & Community",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+    "fetched_at": "2025-10-30T02:08:06.645Z",
+    "status": 200,
+    "meta_title": "Hospitality & Baking | GOTAFE",
+    "meta_description": "Put your creative flair to work with a career in Hospitality & Baking",
+    "canonical": "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+    "h1": "Hospitality & Baking",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus",
+      "on campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+    "fetched_at": "2025-10-30T02:08:14.235Z",
+    "status": 200,
+    "meta_title": "Manufacturing & Work Safety | GOTAFE",
+    "meta_description": "Keep your workplace safe and operating at its peak with a course in Manufacturing & Work Safety from GOTAFE.",
+    "canonical": "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+    "h1": "Manufacturing & Work Safety",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/study/land-animals",
+    "fetched_at": "2025-10-30T02:08:17.429Z",
+    "status": 200,
+    "meta_title": "Land & Animals | GOTAFE",
+    "meta_description": "Join one of Australia's largest industries with a career working with Land & Animals.",
+    "canonical": "https://www.gotafe.vic.edu.au/study/land-animals",
+    "h1": "Land & Animals",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/land-animals/short-courses"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus",
+      "on campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/study/technical-trades",
+    "fetched_at": "2025-10-30T02:08:24.995Z",
+    "status": 200,
+    "meta_title": "Technical Trades | GOTAFE",
+    "meta_description": "Learn the tricks of the trade with our Technical Trades courses and apprenticeships.",
+    "canonical": "https://www.gotafe.vic.edu.au/study/technical-trades",
+    "h1": "Technical Trades",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/freetafe",
+    "fetched_at": "2025-10-30T02:08:35.861Z",
+    "status": 200,
+    "meta_title": "Free TAFE for the jobs Victoria needs | GOTAFE",
+    "meta_description": "With Free TAFE priority pathways, you can progress from a certificate to a diploma within the same study area without paying tuition fees for each individual course.",
+    "canonical": "https://www.gotafe.vic.edu.au/freetafe",
+    "h1": "Free TAFE for the jobs Victoria needs",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300 468 233",
+      "1300468233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses?q=&amp;free-tafe=true"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses?q=&amp;study-area=Business%20%26%20IT&amp;free-tafe=true"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses?q=&amp;study-area=Health%20%26%20Community&amp;free-tafe=true"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses?q=&amp;study-area=Education&amp;free-tafe=true"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses?q=&amp;study-area=Land%20%26%20Animals&amp;free-tafe=true"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses?q=&amp;study-area=Hospitality%20%26%20Baking&amp;free-tafe=true"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses?q=&amp;study-area=Technical%20Trades&amp;free-tafe=true"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses?q=&amp;study-area=Manufacturing%20%26%20Work%20Safety&amp;free-tafe=true"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [],
+    "has_schema_errors": true,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/study/short-courses",
+    "fetched_at": "2025-10-30T02:08:44.718Z",
+    "status": 200,
+    "meta_title": "Short Courses | GOTAFE",
+    "meta_description": "Build new skills quickly with a GOTAFE short course. Learn anything from Bookkeeping to Espresso Coffee Making- there's a short course for every interest.",
+    "canonical": "https://www.gotafe.vic.edu.au/study/short-courses",
+    "h1": "Short Courses",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+    "fetched_at": "2025-10-30T02:08:46.759Z",
+    "status": 200,
+    "meta_title": "Youth Pathways | GOTAFE",
+    "meta_description": "If high school and VCE aren’t your thing, then do something you love! We have more than 125 hands-on courses, with lots of them Free TAFE courses. Kickstart your career with us. ",
+    "canonical": "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+    "h1": "Youth Pathways",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways/find-out-more-about-youth-pathways"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+    "fetched_at": "2025-10-30T02:08:55.631Z",
+    "status": 200,
+    "meta_title": "VPC and VCE - Vocational Major | GOTAFE",
+    "meta_description": "The VCE is changing to also offer the VCE Vocational Major, a new 2-year program. It will give you work-related skills and prepare you for further education and training.",
+    "canonical": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+    "h1": "VPC and VCE - Vocational Major",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+    "fetched_at": "2025-10-30T02:08:57.630Z",
+    "status": 200,
+    "meta_title": "VET Delivered to School Students | GOTAFE",
+    "meta_description": "Get a head start in your career by studying a nationally recognised VET qualification during your VCE or VCE-VM.",
+    "canonical": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+    "h1": "VET Delivered to School Students",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [
+      "vdss@gotafe.vic.edu.au",
+      "vdss@gotafe.vic.edu.au"
+    ],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+    "fetched_at": "2025-10-30T02:09:06.563Z",
+    "status": 200,
+    "meta_title": "Pathways to University | GOTAFE",
+    "meta_description": "There are many different roads you can take to find the right education for your career",
+    "canonical": "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+    "h1": "Pathways to University",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [],
+    "phones": [
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus",
+      "on campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+    ]
+  },
+  {
+    "source_url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships",
+    "fetched_at": "2025-10-30T02:09:08.565Z",
+    "status": 200,
+    "meta_title": "Apprenticeships & Traineeships | GOTAFE",
+    "meta_description": "Build the skills employers want and get paid while you're learning with an Apprenticeship or Traineeship course from GOTAFE.",
+    "canonical": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships",
+    "h1": "Apprenticeships & Traineeships",
+    "rto_code": "3094",
+    "abn": "33 549 081 413",
+    "emails": [
+      "apprenticehelpdesk@djsir.vic.gov.au",
+      "apprenticehelpdesk@djsir.vic.gov.au"
+    ],
+    "phones": [
+      "1300 311 820",
+      "1300468233",
+      "1300 468 233"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/gotafe/",
+      "linkedin": "https://au.linkedin.com/company/gotafe",
+      "twitter": "https://twitter.com/gotafe",
+      "youtube": "https://www.youtube.com/channel/UCHOwlljSO2ZevnXPQs0eHDw",
+      "instagram": "https://www.instagram.com/gotafe"
+    },
+    "courses": [
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/my-saved-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/short-courses"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/youth-pathways"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/school-based-apprenticeships-traineeships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships/worldskills"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-choose-a-course"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/how-to-apply"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/scholarships"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/fees"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/courses/recognition-of-prior-learning"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/students/student-services/skills-first-reconnect-program"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses?q=&amp;delivery-mode=Online%20Classes%20%26%20Workplace%20Training,Workplace%20Training,Workplace%20Training%20%26%20Online%20Study,Workplace%20%26%20On%20Campus,On%20Campus%20%26%20Workplace,Block%20Release%20On%20Campus%20Online%20%26%20W%2Fplace,Block%20Release%20On%20Campus%20%26%20Workplace"
+      },
+      {
+        "url": "https://www.gotafe.vic.edu.au/study/all-courses?q=&amp;delivery-mode=Pre-Apprenticeship"
+      }
+    ],
+    "delivery_modes": [
+      "recognition of prior learning",
+      "online",
+      "on-campus"
+    ],
+    "pricing_mentions": [],
+    "policies": [
+      {
+        "name": "gotafe-student-handbook",
+        "url": "https://www.gotafe.vic.edu.au/gotafe-student-handbook"
+      },
+      {
+        "name": "student-forms-policies",
+        "url": "https://www.gotafe.vic.edu.au/students/student-forms-policies"
+      },
+      {
+        "name": "policies-forms",
+        "url": "https://www.gotafe.vic.edu.au/about-us/policies-forms"
+      },
+      {
+        "name": "legal-privacy",
+        "url": "https://www.gotafe.vic.edu.au/about-us/legal-privacy"
+      }
+    ],
+    "jsonld_types": [
+      "BreadcrumbList"
+    ],
+    "has_schema_errors": false,
+    "sitemap_urls": [
+      "https://www.gotafe.vic.edu.au/sitemap.xml"
+    ],
+    "content_lang": "en-AU",
+    "links_out_sample": [
+      "https://www.gotafe.vic.edu.au",
+      "https://www.gotafe.vic.edu.au/courses/apprenticeships-traineeships",
+      "https://www.gotafe.vic.edu.au/current-students",
+      "https://www.gotafe.vic.edu.au/about-us/working-with-us",
+      "https://www.gotafe.vic.edu.au/about-us/contact",
+      "https://www.gotafe.vic.edu.au/my-saved-courses",
+      "https://www.gotafe.vic.edu.au/",
+      "https://www.gotafe.vic.edu.au/courses",
+      "https://www.gotafe.vic.edu.au/study/all-courses",
+      "https://www.gotafe.vic.edu.au/study",
+      "https://www.gotafe.vic.edu.au/study/business-it",
+      "https://www.gotafe.vic.edu.au/study/creative",
+      "https://www.gotafe.vic.edu.au/study/education",
+      "https://www.gotafe.vic.edu.au/study/hair-beauty",
+      "https://www.gotafe.vic.edu.au/study/health-community",
+      "https://www.gotafe.vic.edu.au/study/hospitality-baking",
+      "https://www.gotafe.vic.edu.au/study/manufacturing-work-safety",
+      "https://www.gotafe.vic.edu.au/study/land-animals",
+      "https://www.gotafe.vic.edu.au/study/technical-trades",
+      "https://www.gotafe.vic.edu.au/study/short-courses",
+      "https://www.gotafe.vic.edu.au/freetafe",
+      "https://www.gotafe.vic.edu.au/courses/youth-pathways",
+      "https://www.gotafe.vic.edu.au/courses/vpc-vocational-major",
+      "https://www.gotafe.vic.edu.au/courses/vet-delivered-to-school-students",
+      "https://www.gotafe.vic.edu.au/courses/pathways-to-university"
+    ]
+  }
+]
